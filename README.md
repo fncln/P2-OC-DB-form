@@ -1,13 +1,25 @@
-# The ArtBox
+# Exercice - Mettez en place un serveur et un site simple avec PHP
 
-Ce projet contient : 
-* Le code initial du projet The ArtBox pour réaliser le projet 4 du parcours PHP/Symfony sur la branche `main`.
-* Les corrections des différentes étapes sur les branches `correction-etapeX` (avec X le numéro de l'étape).
+Vous avez récemment réalisé la refonte du site de The ArtBox, une galerie d'art contemporain. Fatima, la responsable de communication, reprend contact avec vous pour une nouvelle mission. Elle souhaite ajouter de nouvelles œuvres sur le site web, sans avoir à modifier le code. 
 
-## Installation du projet
+Pour y parvenir, vous allez mettre en place une base de données pour stocker les œuvres, ainsi qu’un formulaire de création de nouvelles œuvres avec les champs suivants : 
 
-Pour installer ce projet : 
-1. Télécharger le projet en cliquant sur le bouton "Code" ci-dessus puis "Download ZIP".
-2. Dézipper le projet et placez-le dans le dossier contenant vos projets PHP habituels.
-3. Ouvrir le projet dans le navigateur via l'adresse http://localhost/NOM_DU_DOSSIER (ou autre selon votre configuration)
-4. Ouvrir le projet dans votre IDE (exemple : VSCode) pour réaliser les prochaines étapes.
+- Nom de l'œuvre
+- Nom de l'artiste
+- Lien vers la photo de l'œuvre
+- Description de l'œuvre
+
+# Étapes du projet
+
+- Étape 1 – Initialisez le projet avec Git et GitHub
+- Étape 2 – Concevez la base de données du projet
+- Étape 3 – Mettez à jour la page d'accueil du site
+- Étape 4 – Mettez à jour la page de détail d'une œuvre
+- Étape 5 – Validez le formulaire de création d'une œuvre
+- Étape 6 – Insérez l'œuvre en BDD
+
+
+# Technologies utilisées
+- Langages / Backend : PHP / HTML5 / CSS3
+- Base de données : MySQL
+- Gestion de version : Git & GitHub
